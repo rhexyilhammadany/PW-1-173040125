@@ -1,0 +1,12 @@
+body{
+	 background-image: url(../img/background.jpg);
+}
+.judul{
+	color: white;
+}
+#color{
+   background-color: aqua;
+}
+#color1{
+   background-color:pink;
+}

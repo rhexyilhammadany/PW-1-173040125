@@ -1,0 +1,22 @@
+.kotak {
+		
+			border :2px solid black;
+			margin: 5px;
+			padding: 20px;
+			float :left;
+
+			
+
+		}
+		
+		.kotak1 {
+	
+			border :2px solid black;
+			margin: 5px;
+			padding: 20px;
+			float :left;
+            clear :both;
+		
+
+
+		}
